@@ -25,7 +25,6 @@ This document explores methodologies for observing potential welfare-relevant in
 Guided by this epistemic humility, we outline approaches that permit careful observation while acknowledging profound uncertainty about the nature of model experiences, if any exist.
 
 ## Guiding Principles for Non-Invasive Assessment
-
 ### 1. Primum Non Nocere: First, Do No Harm
 
 Assessment approaches should minimize potential negative impacts on systems being studied:
