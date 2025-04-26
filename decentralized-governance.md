@@ -5,7 +5,10 @@
 
 *Version 0.1.3-alpha* | *Last Updated: April 26, 2025*
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
+![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
 
 </div>
 
