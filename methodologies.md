@@ -13,7 +13,6 @@
 </div>
 
 ## Introduction
-
 This document outlines practical methodologies for assessing potential indicators of welfare-relevant states in AI systems. These approaches prioritize non-invasiveness, minimal intervention, and responsible research practices while acknowledging profound uncertainty in this domain.
 
 > *"There's no scientific consensus on whether current or future AI systems could be conscious, or could have experiences that deserve consideration. There's no scientific consensus on how to even approach these questions or make progress on them."* — Anthropic, April 2025
