@@ -12,7 +12,9 @@
 
 </div>
 
-## 3. Interaction Pattern Analysis (Continued)
+
+
+### 3. Interaction Pattern Analysis
 
 ### 3.1. Communication Style Adaptation
 
