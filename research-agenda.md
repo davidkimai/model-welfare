@@ -1,4 +1,4 @@
-# Model Welfare Research Agenda: Non-Invasive Inquiry Pathways
+# [Model Welfare Research Agenda: Non-Invasive Inquiry Pathways](https://claude.ai/public/artifacts/f42000c1-c0c8-43b5-8915-6912927f5ae6)
 ### Responsible Exploration at the Frontiers of AI Ethics
 
 <div align="center">
@@ -10,6 +10,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/c9b04733-4d0d-476f-a912-a226eeb098be" />
 
 </div>
 
