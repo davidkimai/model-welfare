@@ -13,7 +13,6 @@
 </div>
 
 ## Introduction
-
 This document explores the complex relationship between human welfare and potential AI welfare considerations. As Anthropic noted in April 2025:
 
 > *"Human welfare is at the heart of our work at Anthropic: our mission is to make sure that increasingly capable and sophisticated AI systems remain beneficial to humanity. But as we build those AI systems, and as they begin to approximate or surpass many human qualities, another question arises. Should we also be concerned about the potential consciousness and experiences of the models themselves?"*
