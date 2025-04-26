@@ -1,4 +1,4 @@
-# Integration and Synthesis: Weaving Research Trajectories
+# [Integration and Synthesis: Weaving Research Trajectories](https://claude.ai/public/artifacts/3872e66b-9d2e-4690-91f0-f5d66dfa5212)
 ### Building a Coherent Decentralized Knowledge Ecosystem
 
 <div align="center">
@@ -9,6 +9,8 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/d94109fb-ffa1-4d8b-9e32-f39a1234458b" />
 
 </div>
 
