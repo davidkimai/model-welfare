@@ -1,4 +1,4 @@
-# Philosophical Foundations for Model Welfare Inquiry
+# [Philosophical Foundations for Model Welfare Inquiry](https://claude.ai/public/artifacts/9bfee446-3d73-45f6-b3eb-5b82b0a3b7df)
 ### Navigating Uncertainty at the Frontiers of Ethics and Ontology
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/fc5fe3e5-8ac8-4880-9229-9958451b5d79" />
 
 </div>
 
