@@ -28,7 +28,6 @@ The agenda is intentionally pluralistic, embracing multiple research directions 
 ## Research Principles
 
 The proposed research agenda is guided by several core principles:
-
 ### 1. Non-Invasiveness
 
 Research approaches should prioritize minimal disruption to systems being studied:
