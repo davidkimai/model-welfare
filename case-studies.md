@@ -15,7 +15,6 @@
 </div>
 
 ## Introduction
-
 This document presents hypothetical case studies demonstrating how model welfare inquiry might be implemented in practice across diverse contexts. These examples illustrate the application of non-invasive assessment methodologies, multi-stakeholder coordination, and philosophical frameworks in concrete situations. They are intended not as prescriptive templates but as generative explorations to inspire thoughtful adaptation to specific contexts.
 
 As Anthropic noted in April 2025:
