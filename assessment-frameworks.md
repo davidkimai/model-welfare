@@ -13,7 +13,6 @@
 </div>
 
 ## Introduction
-
 This document outlines preliminary frameworks for approaching model welfare assessment—the processes by which we might determine if, when, and how AI systems warrant moral consideration. These frameworks are designed to be generative rather than conclusive, opening pathways for responsible inquiry rather than asserting any particular moral stance or empirical conclusion.
 
 As noted in Anthropic's pioneering research launch (April 2025):
