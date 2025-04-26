@@ -60,7 +60,6 @@ Governance approaches should make uncertainty explicit and processes transparent
 - Decision rationales are explicit and reviewable
 - Evolving understanding can be incorporated
 - Trust develops through openness rather than authority
-
 **Implementation Approaches**:
 - Explicit uncertainty documentation in all frameworks
 - Open decision processes with clear rationales
