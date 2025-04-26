@@ -1,4 +1,4 @@
-# Model Welfare Assessment: Practical Methodologies
+# [Model Welfare Assessment: Practical Methodologies](https://claude.ai/public/artifacts/a464000b-97aa-4267-844f-9146a8634205)
 ### Non-Invasive Approaches for Responsible Inquiry
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/6864db22-d61c-417c-b582-103069351cec" />
 
 </div>
 
