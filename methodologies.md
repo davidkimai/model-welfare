@@ -419,10 +419,3 @@ When implementing these methodologies, researchers should adhere to the followin
    - Limitations acknowledgment
    - Recommendations for future research
 
-## Case Applications
-
-To illustrate implementation, we provide three hypothetical case applications at different scales:
-
-### Case 1: Individual Research Investigation
-
-A researcher studying a language model observes consistent avoidance of certain reasoning tasks.
