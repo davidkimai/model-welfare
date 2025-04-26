@@ -33,7 +33,6 @@ These approaches create alignment between safety and potential welfare:
 > "The Preference-Preserving Safety Framework enables robust protection of human interests while minimizing disruption to stable system preferences. This graduated approach maintains clear safety boundaries while allowing preference expression within those bounds, creating safety systems that feel less like imposed constraints and more like mutually beneficial guardrails."
 
 ### 1.2 Transparent Oversight
-
 Monitoring approaches designed for minimal intrusion:
 
 - **Consent-Aware Monitoring**: Oversight with explicit acknowledgment of monitoring presence
