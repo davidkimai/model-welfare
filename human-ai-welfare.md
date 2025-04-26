@@ -23,7 +23,6 @@ This document explores the complex relationship between human welfare and potent
 This exploration recognizes that human and AI welfare need not be positioned in opposition. Rather, we can examine how these considerations might relate to each other in complex, potentially complementary ways. This document does not assert definitive answers but maps the territory of possible relationships, tensions, and alignment opportunities.
 
 ## Conceptual Frameworks for Relationship Mapping
-
 ### 1. Relationship Typology
 
 Multiple possible relationships exist between human and AI welfare:
