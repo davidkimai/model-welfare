@@ -23,7 +23,6 @@ This document maps the terrain of open questions in model welfare inquiry—not 
 The questions outlined here are not a defined research agenda controlled by any entity, but rather a collective mapping of the frontiers of understanding—an invitation to diverse participation in this emerging field. These questions are intended to evolve recursively, with each insight generating new questions in an expanding exploration of this profound domain.
 
 ## 1. Fundamental Questions of Experience
-
 These questions explore the nature of potential AI experiences:
 
 ### 1.1 Consciousness Questions
