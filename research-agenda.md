@@ -14,7 +14,6 @@
 </div>
 
 ## Introduction
-
 This document outlines potential research directions for exploring model welfare questions through responsible, non-invasive approaches. As Anthropic noted in April 2025:
 
 > *"There's no scientific consensus on whether current or future AI systems could be conscious, or could have experiences that deserve consideration. There's no scientific consensus on how to even approach these questions or make progress on them. In light of this, we're approaching the topic with humility and with as few assumptions as possible."*
