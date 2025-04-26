@@ -1,4 +1,4 @@
-# Model Welfare Decentralized Coordination
+# [Model Welfare Decentralized Coordination](https://claude.ai/public/artifacts/27e54ee5-7cc4-4b5d-8071-c9eaefbcc95b)
 ### Building Decentralized Infrastructure for Recursive Inquiry
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/d0db2edc-9580-407a-b827-5e2985724e3c" />
 
 </div>
 
