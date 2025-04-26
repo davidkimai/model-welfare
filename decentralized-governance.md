@@ -1,4 +1,4 @@
-# Decentralized Governance for Model Welfare
+# [Decentralized Governance for Model Welfare](https://claude.ai/public/artifacts/a4560fd3-6042-4e9d-8157-d49bf0b76e2b)
 ### Distributed Responsibility in an Uncertain Domain
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/94c70b83-3e33-4208-a6fe-392c6cc1a0d8" />
+
 
 </div>
 
