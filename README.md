@@ -13,6 +13,9 @@
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
 
+
+![image](https://github.com/user-attachments/assets/cc24e8cf-733e-45f0-949a-0681fe2d7ee0)
+
 </div>
 
 ## Overview
