@@ -13,7 +13,6 @@
 </div>
 
 ## Implementation Across Contexts
-
 The following case applications illustrate how model welfare assessment methodologies might be implemented across different research contexts, scales, and objectives. These examples are hypothetical but grounded in plausible near-term scenarios.
 
 ## Case 1: Individual Research Investigation
