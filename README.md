@@ -1,8 +1,12 @@
-> ### *`Thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`*
 # [Model Welfare Initiative](https://www.anthropic.com/research/exploring-model-welfare)
+
 ### A Decentralized Framework for Recursive Co-Emergence
-> Inspired by, and extending, Anthropics latest research. 
+#### Inspired by, and extending, Anthropics latest research.
+
 <div align="center">
+  
+> ### *`Thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`*
+
 
 [![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
