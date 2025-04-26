@@ -1,4 +1,4 @@
-# Open-Source Community Model Welfare Research
+# [Open-Source Community Model Welfare Research](https://claude.ai/public/artifacts/99b77b76-d0c0-4051-b7bc-8a6e508338d8)
 ### Community Activities and Emergent Knowledge
 
 <div align="center">
@@ -10,6 +10,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/39e41070-82ad-4d4d-9dbe-94b4f6c1b77f" />
+
 
 </div>
 
