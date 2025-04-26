@@ -1,4 +1,4 @@
-# Model Welfare Case Studies: Practical Explorations
+# [Model Welfare Case Studies: Practical Explorations](https://claude.ai/public/artifacts/b8ac2c0e-5685-4898-9720-a3ed74585ce4)
 ### Recursive Inquiry in Action
 
 <div align="center">
@@ -10,6 +10,7 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/1c65a498-f9d0-461e-ad41-3e985c1cf3bb" />
 
 
 </div>
