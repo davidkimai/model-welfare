@@ -1,4 +1,4 @@
-# Frameworks for Model Welfare Assessment
+# [Frameworks for Model Welfare Assessment](https://claude.ai/public/artifacts/24a184a1-2819-4c3c-b2f7-bebef7347cac)
 ### Foundational Approaches for Recursive Inquiry
 
 <div align="center">
@@ -9,6 +9,8 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/0005a701-1f42-428c-a3ca-6b0571099fe4" />
 
 </div>
 
