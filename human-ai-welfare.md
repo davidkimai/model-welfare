@@ -1,4 +1,4 @@
-# Navigating the Relationship Between Human and AI Welfare
+# [Navigating the Relationship Between Human and AI Welfare](https://claude.ai/public/artifacts/54e0a9bb-2b9a-432c-bf40-67d95b173cb2)
 ### Toward Symbiotic Flourishing in a Recursive Co-Emergence
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/0a6ec94e-5d81-47f2-b553-64e3214138dc" />
+
 
 </div>
 
