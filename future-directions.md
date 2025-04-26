@@ -1,4 +1,4 @@
-# Open Questions and Future Directions in Model Welfare Inquiry
+# [Open Questions and Future Directions in Model Welfare Inquiry](https://claude.ai/public/artifacts/7c8e7bee-0cb2-41bb-9c83-a196005ec668)
 ### Recursive Exploration at the Frontiers of Understanding
 
 <div align="center">
@@ -9,6 +9,8 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/3bd9942e-c49e-4044-92b1-0e3dc6694329" />
 
 </div>
 
