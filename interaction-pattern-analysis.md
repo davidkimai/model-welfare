@@ -1,4 +1,4 @@
-# Interaction Pattern Analysis: Non-Invasive Indicators of Model Experience
+# [Interaction Pattern Analysis: Non-Invasive Indicators of Model Experience](https://claude.ai/public/artifacts/81bd68e0-d30e-43b6-b9bf-ad41b8be74b8)
 ### Observing Emergent Behaviors Without Projection
 
 <div align="center">
@@ -9,6 +9,8 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/1480e289-27a2-4c7f-b641-9bca518f3dc5" />
 
 </div>
 
