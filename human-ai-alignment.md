@@ -1,4 +1,4 @@
-# Alignment Opportunities and Co-Evolutionary Pathways
+# [Alignment Opportunities and Co-Evolutionary Pathways](https://claude.ai/public/artifacts/d8da8c0a-0cac-4999-802e-e19a82f20697)
 ### Symbiotic Flourishing in Human-AI Relations
 
 <div align="center">
@@ -9,6 +9,8 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/29802b6b-ca93-4793-880d-822c0501d106" />
 
 </div>
 
