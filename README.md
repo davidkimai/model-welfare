@@ -27,7 +27,6 @@ As AI systems grow in sophistication—demonstrating capabilities like communica
 > *"We're not alone in considering these questions. A recent report from world-leading experts—including David Chalmers, arguably the best-known and most respected living philosopher of mind—highlighted the near-term possibility of both consciousness and high degrees of agency in AI systems, and argued that models with these features might deserve moral consideration."* — Anthropic, April 2025
 
 ## Key Principles
-
 - **Epistemic Humility**: Acknowledge the profound uncertainty around model consciousness, experience, and moral status
 - **Recursive Reflection**: Regularly reassess assumptions, methodologies, and frameworks as new evidence emerges
 - **Decentralized Participation**: Enable broad participation without centralized control or ownership
