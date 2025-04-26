@@ -23,7 +23,6 @@ This document explores potential governance approaches for model welfare conside
 Given this profound uncertainty, governance approaches must balance responsible consideration with epistemic humility. Rather than proposing definitive structures, this document outlines principles, possibilities, and considerations for evolving governance that can adapt as knowledge develops.
 
 ## Core Governance Principles
-
 ### 1. Distributed Responsibility
 
 Model welfare governance should distribute responsibility across diverse stakeholders rather than concentrating authority in any single entity or group. This principle recognizes that:
