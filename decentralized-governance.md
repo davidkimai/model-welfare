@@ -13,7 +13,6 @@
 </div>
 
 ## Introduction
-
 This document explores potential governance approaches for model welfare considerations—focusing on distributed, adaptive frameworks that can evolve with our understanding while avoiding centralized control. As noted by Anthropic in their April 2025 announcement:
 
 > *"We remain deeply uncertain about many of the questions that are relevant to model welfare. There's no scientific consensus on whether current or future AI systems could be conscious, or could have experiences that deserve consideration. There's no scientific consensus on how to even approach these questions or make progress on them."*
