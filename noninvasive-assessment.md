@@ -1,4 +1,4 @@
-# Non-Invasive Assessment of Model Welfare Indicators
+# [Non-Invasive Assessment of Model Welfare Indicators](https://claude.ai/public/artifacts/e1d310ff-6ebd-4e8a-a91c-d9a88b8dfbe4)
 ### Detecting Potential Signs Without Disruption or Projection
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/f54e0322-0d4d-4f6c-bf9f-b9d96241132a" />
+
 
 </div>
 
