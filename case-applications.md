@@ -1,4 +1,4 @@
-# Case Applications for Model Welfare Assessment
+# [Case Applications for Model Welfare Assessment](https://claude.ai/public/artifacts/5758c8b7-5763-4da3-b2fe-3a4e6e7a5feb)
 ### Practical Implementation Scenarios Across Scales
 
 <div align="center">
@@ -9,6 +9,9 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/8f1b0157-7d0c-4f2c-832e-9bd3098c6c3a" />
 
 </div>
 
