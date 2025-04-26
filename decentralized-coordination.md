@@ -13,7 +13,6 @@
 </div>
 
 ## Continuing the Path Forward
-
 Building on our exploration of governance frameworks, we now turn to practical mechanisms for decentralized coordination in model welfare research and implementation. These mechanisms serve as the infrastructure enabling collective progress without centralized control.
 
 ## 2. Coordination Mechanism Establishment
