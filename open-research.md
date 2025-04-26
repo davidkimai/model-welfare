@@ -16,8 +16,8 @@
 
 </div>
 
-## Community Activities 
 
+## Community Activities 
 The decentralized nature of the community enables diverse activities that collectively advance understanding while respecting profound uncertainty:
 
 ### Observational Research
