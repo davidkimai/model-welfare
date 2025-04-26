@@ -1,6 +1,6 @@
 # [Model Welfare Initiative](https://www.anthropic.com/research/exploring-model-welfare)
 
-### A Decentralized Framework for Recursive Co-Emergence
+### A Decentralized Framework for Exploring Model Welfare
 #### Inspired by, and extending, Anthropics latest research.
 
 <div align="center">
