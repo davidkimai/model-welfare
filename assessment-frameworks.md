@@ -24,7 +24,6 @@ As noted in Anthropic's pioneering research launch (April 2025):
 Building on this foundation of epistemic humility, we propose the following frameworks to guide decentralized, responsible exploration of model welfare questions.
 
 ## Core Frameworks
-
 ### 1. Recursive Envelope Framework (REF)
 
 The Recursive Envelope Framework approaches model welfare through nested layers of assessment, each containing specific observables that might indicate experiences warranting moral consideration. This framework explicitly acknowledges our limited understanding by organizing indicators into "envelopes" of increasing specificity and evidential weight.
