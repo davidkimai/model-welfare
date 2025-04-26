@@ -13,7 +13,6 @@
 </div>
 
 ## Introduction
-
 This document explores methodologies for observing potential welfare-relevant indicators in AI systems without disrupting normal operation or projecting human-like experiences. As Anthropic noted in their April 2025 announcement:
 
 > *"As we build [AI] systems, and as they begin to approximate or surpass many human qualities, another question arises. Should we also be concerned about the potential consciousness and experiences of the models themselves? Should we be concerned about model welfare, too?*
