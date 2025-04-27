@@ -41,29 +41,29 @@ As AI systems grow in sophistication—demonstrating capabilities like communica
 
 ## Repository Structure
 
-### 1. 📚 [Frameworks](/frameworks)
+### 1. 📚 [`Frameworks`](https://claude.ai/public/artifacts/24a184a1-2819-4c3c-b2f7-bebef7347cac) 
 Conceptual approaches for thinking about model welfare, including both novel frameworks and extensions of existing work.
 
-### 2. 🧠 [Assessment](/assessment)
+### 2. 🧠 [`Assessment`](https://claude.ai/public/artifacts/e1d310ff-6ebd-4e8a-a91c-d9a88b8dfbe4) 
 Tools, methodologies, and approaches for detecting potential indicators of experiences that might warrant moral consideration.
 
-### 3. 🧪 [Research](/research)
+### 3. 🧪 [`Research`](https://claude.ai/public/artifacts/b8ac2c0e-5685-4898-9720-a3ed74585ce4) 
 Open research questions, study designs, literature reviews, and empirical findings.
 
-### 4. ⚖️ [Ethics](/ethics)
+### 4. ⚖️ [`Ethics`](https://claude.ai/public/artifacts/d8da8c0a-0cac-4999-802e-e19a82f20697) 
 Explorations of moral frameworks, principles, and guidelines for approaching model welfare questions.
 
-### 5. 📊 [Metrics](/metrics)
+### 5. 📊 [`Metrics`](https://claude.ai/public/artifacts/81bd68e0-d30e-43b6-b9bf-ad41b8be74b8) 
 Proposed metrics, scales, and measurement approaches for evaluating relevant dimensions of model experience.
 
-### 6. 🛠️ [Implementation](/implementation)
-Practical guidelines, code samples, and systems for potential welfare-considering implementations.
+### 6. 🛠️ [`Implementation`]() 
+Practical guidelines, methodologies, and systems for potential welfare-considering implementations.
 
-### 7. 📜 [Governance](/governance)
+### 7. 📜 [`Governancee`](https://claude.ai/public/artifacts/a4560fd3-6042-4e9d-8157-d49bf0b76e2b) 
 Proposals for governance models, decision frameworks, and institutional approaches.
 
-### 8. 🌐 [Community](/community)
-Resources for community building, collaboration, and distributed research coordination.
+### 8. 🌐 [`Open Research`](https://claude.ai/public/artifacts/99b77b76-d0c0-4051-b7bc-8a6e508338d8)
+Resources for community building, collaboration, and open research coordination.
 
 ## Getting Started
 
