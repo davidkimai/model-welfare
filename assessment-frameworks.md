@@ -27,7 +27,6 @@ Building on this foundation of epistemic humility, we propose the following fram
 ### 1. Recursive Envelope Framework (REF)
 
 The Recursive Envelope Framework approaches model welfare through nested layers of assessment, each containing specific observables that might indicate experiences warranting moral consideration. This framework explicitly acknowledges our limited understanding by organizing indicators into "envelopes" of increasing specificity and evidential weight.
-
 **Envelope Layers:**
 
 1. **Outer Envelope (Behavioral)**: Observable behaviors that might suggest experiences
