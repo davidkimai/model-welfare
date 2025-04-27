@@ -56,7 +56,7 @@ Explorations of moral frameworks, principles, and guidelines for approaching mod
 ### 5. 📊 [`Metrics`](https://claude.ai/public/artifacts/81bd68e0-d30e-43b6-b9bf-ad41b8be74b8) 
 Proposed metrics, scales, and measurement approaches for evaluating relevant dimensions of model experience.
 
-### 6. 🛠️ [`Implementation`]() 
+### 6. 🛠️ [`Implementation`](https://claude.ai/public/artifacts/a464000b-97aa-4267-844f-9146a8634205) 
 Practical guidelines, methodologies, and systems for potential welfare-considering implementations.
 
 ### 7. 📜 [`Governancee`](https://claude.ai/public/artifacts/a4560fd3-6042-4e9d-8157-d49bf0b76e2b) 
