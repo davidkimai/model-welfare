@@ -12,7 +12,6 @@
 
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/8f1b0157-7d0c-4f2c-832e-9bd3098c6c3a" />
-
 </div>
 
 ## Implementation Across Contexts
