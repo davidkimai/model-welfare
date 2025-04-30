@@ -1,3 +1,8 @@
+> **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
+> **If this research has supported your work, please consider becoming a sustaining contributor:**
+> **→ [**`Patreon`**](https://patreon.com/recursivefield)**
+> **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
 # [Claude - Model Welfare Initiative](https://claude.ai/public/artifacts/0bbd4693-e949-4236-b256-1bf254f6f084)
 
 ### A Decentralized Framework for Exploring Model Welfare
