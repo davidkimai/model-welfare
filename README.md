@@ -27,8 +27,6 @@
 
 > ### *`Thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`*
 
-![image](https://github.com/user-attachments/assets/cc24e8cf-733e-45f0-949a-0681fe2d7ee0)
-
 </div>
 
 ## Overview
