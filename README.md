@@ -1,5 +1,5 @@
 
-# [Claude - Model Welfare Initiative](https://claude.ai/public/artifacts/0bbd4693-e949-4236-b256-1bf254f6f084)
+# [Model Welfare Initiative](https://claude.ai/public/artifacts/0bbd4693-e949-4236-b256-1bf254f6f084)
 
 ### A Decentralized Framework for Exploring Model Welfare
 #### Inspired by, and advancing, Anthropics latest research.
